@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
+    <channel>
+        <link>https://koluch.ru/podcast/vorov_stories/</link>
+        <language>ru-RU</language>
+        <copyright>&#xA9;2017</copyright>
+        <webMaster>koluch@koluch.ru (Nikolai Mavrenkov)</webMaster>
+        <managingEditor>koluch@koluch.ru (Nikolai Mavrenkov)</managingEditor>
+        <image>
+            <url>https://podcast-host.github.io/vorov/cover.png</url>
+            <title>Обложка подкасата</title>
+            <link>https://podcast-host.github.io/</link>
+        </image>
+        <itunes:owner>
+            <itunes:name>Nikolai Mavrenkov</itunes:name>
+            <itunes:email>koluch@koluch.ru</itunes:email>
+        </itunes:owner>
+        <itunes:category text="Фольклор"/>
+        <itunes:keywords>Алексей Воров, Леонид Каганов, горы, рассказы</itunes:keywords>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://podcast-host.github.io/vorov/cover.png" />
+        <pubDate>Mon, 09 May 2017 00:00:00 +0000</pubDate>
+        <title>Алексей Воров: истории про горы</title>
+        <itunes:author>Nikolai Mavrenkov</itunes:author>
+        <description>Истории про горы, рассказанные в 2011 году известным путешественником Алексеем Воровым в гостях у Леонида Каганова</description>
+        <itunes:summary>Истории про горы, рассказанные в 2011 году известным путешественником Алексеем Воровым в гостях у Леонида Каганова</itunes:summary>
+        <itunes:subtitle>Истории про горы</itunes:subtitle>
+        <lastBuildDate>Mon, 09 May 2017 00:00:00 +0000</lastBuildDate>
+        <item>
+            <title>Первая часть</title>
+            <description>Первая часть беседы</description>
+            <itunes:summary>Первая часть беседы</itunes:summary>
+            <itunes:subtitle>Первая часть беседы</itunes:subtitle>
+            <enclosure url="https://podcast-host.github.io/vorov/Alexey_Vorov_00.mp3" type="audio/mpeg" length="1" />
+            <guid>https://podcast-host.github.io/vorov/Alexey_Vorov_00.mp3</guid>
+            <itunes:duration>0:32:14</itunes:duration>
+            <pubDate>Mon, 09 May 2017 00:00:00 +0000</pubDate>
+        </item>
+    </channel>
+</rss>
